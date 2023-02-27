@@ -2,7 +2,7 @@
 
 
 - 🔭 Estudante de Engenharia Eletrônica e Desenvolvimento Web - Trybe 
-- 🌱 Estudando back-end
+- 🌱 Desenvolvedora Full-Stack atuando com mais frequência em Front-End
 
 <div align="center">
   <a href="https://github.com/yalves8">
