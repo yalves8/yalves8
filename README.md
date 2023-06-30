@@ -1,8 +1,8 @@
 ### Olá, eu sou Yasmin Souza 👋
 
 
-- 🔭 Estudante de Engenharia Eletrônica e Desenvolvimento Web - Trybe 
-- 🌱 Desenvolvedora Full-Stack atuando com mais frequência em Front-End
+- 🔭 Estudante de Engenharia Eletrônica e Desenvolvimento Web - UFRPE 
+- 🌱 Desenvolvedora Full-Stack atuando com mais frequência em React, C# e Python
 
 <div align="center">
   <a href="https://github.com/yalves8">
