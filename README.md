@@ -1,8 +1,8 @@
-### Olá, eu sou Yasmin Souza 👋
+### Hello, I'm Yasmin Souza 👋
 
 
-- 🔭 Estudante de Engenharia Eletrônica e Desenvolvimento Web - UFRPE 
-- 🌱 Desenvolvedora Full-Stack atuando com mais frequência em React, C# e Python
+- 🔭 Bachelor of Electronic Engineer - UFRPE 
+- 🌱 Fullstack developer, mostly working with ReactJs, C#, and Python.
 
 <div align="center">
   <a href="https://github.com/yalves8">
@@ -20,6 +20,7 @@
 <br>
 <div> 
   <a href="https://www.linkedin.com/in/yasmin-alves-souza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://www.hackerrank.com/profile/yasminleticia_" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
